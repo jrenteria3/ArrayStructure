@@ -206,9 +206,9 @@ public class Sorting {
 	
 	/********************************************************************
 	Below are the Sort Methods to be used in the arrays	
-	- Bubble Sorting
-	- Selection Sorting 	
-	- Insertion Sorting
+	-bubbleSort						 +Bubble Sorting
+	-selectionSort					 +Selection Sorting 	
+	-insertionSort					 +Insertion Sorting
 	********************************************************************/
 	
 	/*Bubble Sort Method
