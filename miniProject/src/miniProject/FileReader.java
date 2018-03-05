@@ -1,4 +1,4 @@
-package tutorial111;
+package miniProject;
 
 import java.util.*;
 import java.io.*;
@@ -93,4 +93,4 @@ public class FileReader {
 	
 	
 	}
-}
+}	
