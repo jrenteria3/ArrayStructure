@@ -5,6 +5,7 @@ import java.io.*;
 
 public class FileReader {
 
+	//addingcomment
 	public Scanner x;
 	public static int count;
 	
